@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Git, MongoDB**
 
-💬 Ask me about **Html, Css, Javascript, React... or anything [here](https://github.com/shaikyusuf08/shaikyusuf08/issues)**
+💬 Ask me about **Html, Css, Javascript, React... or anything [here](https://https://github.com/Ashashokh123/my-portfolio/issues)**
 
 ✨ Fun fact **Your brain is constantly eating itself**
 
