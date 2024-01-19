@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Shaik+yusuf!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Sirisetty+Ashok!;" />
 </h1>
 
 <h3 align="center">A passionate full-stack web developer from India 🇮🇳</h3>
@@ -22,7 +22,7 @@
   <a href="https://mail.google.com/mail/u/1/#inbox">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/shaikyusuf" target="_blank">
+  <a href="https://linkedin.com/in/sirisettyashok" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://shaikyusuf.github.io" target="_blank">
